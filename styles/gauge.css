@@ -1,0 +1,14 @@
+.gauge-container > .gauge > .dial {
+    stroke-width: 9;
+    stroke: #3b4875;
+}
+
+.gauge-container > .gauge > .value {
+    stroke-width: 11;
+}
+
+.gauge-container > .gauge .value-text {
+    fill: #fc6805;
+    font-weight: bold;
+    font-size: 0.55em;
+}
